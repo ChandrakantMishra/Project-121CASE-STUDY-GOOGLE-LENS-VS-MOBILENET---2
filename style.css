@@ -1,0 +1,32 @@
+  
+  .copy_right_footer
+  {
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    background-color: rgb(170, 104, 207);
+    color: rgb(241, 241, 237);
+    width: 100%;
+    line-height: 3;
+    font-size: 18px;
+  }
+
+
+
+ .bg-btn-color1, .bg-btn-color2, .bg-btn-color3, .bg-btn-color4, .bg-btn-color5, .bg-btn-color6, .bg-btn-color7, .bg-btn-color8, .bg-btn-color9, .bg-btn-color10
+ {
+   background-color: rgba(219, 156, 105, 0.986);
+   height: 500px;
+   margin-bottom: 30px;
+   border-radius: 20px;
+ }
+
+
+.heading
+ {
+   font-size: 23;
+ }
+
+ body{
+   text-align: center;
+ }
